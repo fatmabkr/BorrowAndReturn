@@ -1,0 +1,14 @@
+Default Accounts
+-----------------------------------------------------------------------------------
+   	
+	// Default Users
+	catalog.addAccount(new User("U001", "ece", "ece123"));
+	catalog.addAccount(new User("U002", "anil", "anil123"));
+	catalog.addAccount(new User("U003", "omerlevent", "omerlevent123"));
+
+
+	// Default Librarians
+        catalog.addAccount(new Librarian("L001", "fatma", "fatma123"));
+        catalog.addAccount(new Librarian("L002", "ozgun", "ozgun123"));
+        catalog.addAccount(new Librarian("L003", "berkekaan", "berkekaan123"));
+
